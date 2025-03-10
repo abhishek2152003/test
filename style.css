@@ -1,0 +1,67 @@
+.cls-1 {
+  fill: transparent; /* Make it transparent initially */
+  stroke: #f0f5f6;
+  stroke-width: 2; /* Ensure stroke is visible */
+}
+.cls-2 {
+  fill: transparent;
+  stroke: #faeadd;
+  stroke-width: 2;
+}
+.cls-3 {
+  fill: #b5764a;
+  stroke: #b5764a; /* If needed */
+}
+.cls-4 {
+  fill: transparent;
+  stroke: #f9b37f;
+  stroke-width: 2;
+}
+.cls-5 {
+  fill: #d28a5a;
+  stroke: #d28a5a; /* If needed */
+}
+.cls-6,
+.cls-8 {
+  fill: #acb1b4;
+  stroke-width: 2;
+}
+.cls-7 {
+  fill: transparent;
+  stroke: #3d4f51;
+  stroke-width: 2;
+}
+.cls-9 {
+  fill: transparent;
+  stroke: #e8e4e3;
+  stroke-width: 2;
+}
+.cls-10 {
+  fill: transparent;
+  stroke: #728c8d;
+  stroke-width: 2;
+}
+.cls-11 {
+  fill: transparent;
+  stroke: #eb9f6d;
+  stroke-width: 2;
+}
+.cls-13 {
+  fill: transparent;
+  stroke: #d28a5a;
+  stroke-width: 2;
+}
+.cls-14 {
+  fill: transparent;
+  stroke: #3c4f56;
+  stroke-width: 2;
+}
+.cls-15,
+.cls-16 {
+  stroke: #000;
+  stroke-width: 2;
+}
+svg path {
+  will-change: fill;
+  opacity: 0.99; /* Forces Safari to repaint */
+}
